@@ -5,6 +5,9 @@ Description
     useful functions for lua for my daily use
 
 Synopsis
+    1. time_now
+        --return second and microsecond of now.
+        local sec, usec = utils.time_now()
 
 Author
     Shrimp "<shrimp0597@gmail.com>"
